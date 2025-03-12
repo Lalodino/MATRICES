@@ -1,0 +1,14 @@
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\MATRICES\ejercicio10\bin\Debug\net8.0\ejercicio10.exe
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\MATRICES\ejercicio10\bin\Debug\net8.0\ejercicio10.deps.json
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\MATRICES\ejercicio10\bin\Debug\net8.0\ejercicio10.runtimeconfig.json
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\MATRICES\ejercicio10\bin\Debug\net8.0\ejercicio10.dll
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\MATRICES\ejercicio10\bin\Debug\net8.0\ejercicio10.pdb
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\MATRICES\ejercicio10\obj\Debug\net8.0\ejercicio10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\MATRICES\ejercicio10\obj\Debug\net8.0\ejercicio10.AssemblyInfoInputs.cache
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\MATRICES\ejercicio10\obj\Debug\net8.0\ejercicio10.AssemblyInfo.cs
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\MATRICES\ejercicio10\obj\Debug\net8.0\ejercicio10.csproj.CoreCompileInputs.cache
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\MATRICES\ejercicio10\obj\Debug\net8.0\ejercicio10.dll
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\MATRICES\ejercicio10\obj\Debug\net8.0\refint\ejercicio10.dll
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\MATRICES\ejercicio10\obj\Debug\net8.0\ejercicio10.pdb
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\MATRICES\ejercicio10\obj\Debug\net8.0\ejercicio10.genruntimeconfig.cache
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\MATRICES\ejercicio10\obj\Debug\net8.0\ref\ejercicio10.dll

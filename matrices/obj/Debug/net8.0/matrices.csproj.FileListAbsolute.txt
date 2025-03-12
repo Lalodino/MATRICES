@@ -1,0 +1,14 @@
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\MATRICES\matrices\bin\Debug\net8.0\matrices.exe
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\MATRICES\matrices\bin\Debug\net8.0\matrices.deps.json
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\MATRICES\matrices\bin\Debug\net8.0\matrices.runtimeconfig.json
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\MATRICES\matrices\bin\Debug\net8.0\matrices.dll
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\MATRICES\matrices\bin\Debug\net8.0\matrices.pdb
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\MATRICES\matrices\obj\Debug\net8.0\matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\MATRICES\matrices\obj\Debug\net8.0\matrices.AssemblyInfoInputs.cache
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\MATRICES\matrices\obj\Debug\net8.0\matrices.AssemblyInfo.cs
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\MATRICES\matrices\obj\Debug\net8.0\matrices.csproj.CoreCompileInputs.cache
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\MATRICES\matrices\obj\Debug\net8.0\matrices.dll
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\MATRICES\matrices\obj\Debug\net8.0\refint\matrices.dll
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\MATRICES\matrices\obj\Debug\net8.0\matrices.pdb
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\MATRICES\matrices\obj\Debug\net8.0\matrices.genruntimeconfig.cache
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\MATRICES\matrices\obj\Debug\net8.0\ref\matrices.dll
