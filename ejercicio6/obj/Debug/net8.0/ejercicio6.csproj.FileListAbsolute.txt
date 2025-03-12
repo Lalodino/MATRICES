@@ -12,3 +12,4 @@ C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\MA
 C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\MATRICES\ejercicio6\obj\Debug\net8.0\ejercicio6.pdb
 C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\MATRICES\ejercicio6\obj\Debug\net8.0\ejercicio6.genruntimeconfig.cache
 C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\MATRICES\ejercicio6\obj\Debug\net8.0\ref\ejercicio6.dll
+C:\Users\iebs4\OneDrive - Universidad Tecnológica Metropolitana\Programacion\MATRICES\ejercicio6\obj\Debug\net8.0\ejercicio6.sourcelink.json
